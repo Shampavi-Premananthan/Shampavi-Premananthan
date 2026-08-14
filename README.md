@@ -37,7 +37,7 @@
 
 #### Notebooks and IDE:
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -63,10 +63,8 @@ Check out my technical articles:
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shampavi-Premananthan&show_icons=true&theme=dark&hide_border=true" alt="Shampavi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shampavi-Premananthan&show_icons=true&theme=tokyonight&hide_border=true" alt="Shampavi's GitHub Stats" />
 </p>
-
----
 ### 📫 Let's Connect & Collaborate
 
 - 💼 **LinkedIn:** [shampavi-premananthan](https://www.linkedin.com/in/shampavi-premananthan-0436232b4/)
