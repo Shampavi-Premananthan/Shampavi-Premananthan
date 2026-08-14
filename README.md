@@ -3,9 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SHAMPAVI%20PREMANANTHAN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shampavi-premananthan-0436232b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-SHAMPAVI--PREMANANTHAN-black?style=for-the-badge&logo=github)](https://github.com/Shampavi-Premananthan)
 [![Medium](https://img.shields.io/badge/Medium-kamshiprem2004-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kamshiprem2004)
-[![ROLE](https://img.shields.io/badge/ROLE-AI%20UNDERGRAD%20%7C%20FULL--STACK%20%26%20EMBEDDED-purple?style=for-the-badge)](#)
+[![ROLE](https://img.shields.io/badge/ROLE-AI%20UNDERGRAD%20%7C%20AI%2FML%20%26%20COMPUTER%20VISION-purple?style=for-the-badge)](#)
 
-> "Exploring Machine Learning,Computer Vision, Full-Stack Development & Embedded Systems to build intelligent solutions."
+> "Exploring Machine Learning, Computer Vision & Intelligent Systems to build impactful solutions."
+
+---
 
 ---
 
