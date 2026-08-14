@@ -59,12 +59,13 @@ Check out my technical articles:
 🔗 **Read more on Medium:** [@kamshiprem2004](https://medium.com/@kamshiprem2004)
 
 ---
-
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shampavi-Premananthan&show_icons=true&theme=tokyonight&hide_border=true" alt="Shampavi's GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/Shampavi-Premananthan?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Shampavi-Premananthan?label=Stars&style=for-the-badge&color=gold" />
 </p>
+---
 ### 📫 Let's Connect & Collaborate
 
 - 💼 **LinkedIn:** [shampavi-premananthan](https://www.linkedin.com/in/shampavi-premananthan-0436232b4/)
